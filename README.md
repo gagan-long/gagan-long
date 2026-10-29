@@ -81,20 +81,15 @@
 
 ### 📊 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gagan-long&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Gagan's GitHub Stats" />
+  
   <img src="https://streak-stats.demolab.com/?user=gagan-long&theme=dark&hide_border=false" alt="Gagan's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagan-long&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gagan-long&theme=dark&hide_border=false&layout=compact&langs_count=6" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DOTexe1255&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gagan-long&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
 
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gagan-long&style=flat-square&color=00d2ff&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
