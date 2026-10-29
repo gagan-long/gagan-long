@@ -1,10 +1,3 @@
-# 💫 Hi 👋, I'm Gagan Kumar Shrivas
-**Full-Stack Web Developer & Cybersecurity / Network Enthusiast from India**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gagan-s-90b2b92a8)
-[![Email](https://img.shields.io/badge/Email-gaganshriwas5%40proton.me-D14836?style=flat&logo=protonmail&logoColor=white)](mailto:gaganshriwas5@proton.me)
-
----
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Gagan+Kumar+Shrivas;Full-Stack+Web+Developer;Cybersecurity+%26+Network+Enthusiast;MCA+Scholar+%40+BIT+Durg" alt="Typing SVG" />
 </div>
