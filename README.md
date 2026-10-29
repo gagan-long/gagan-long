@@ -81,12 +81,12 @@
 
 ### 📊 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gagan-long&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Gagan's GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gagan-long&theme=dark&hide_border=false" alt="Gagan's GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gagan-long&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Gagan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gagan-long&theme=dark&hide_border=false" alt="Gagan's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagan-long&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gagan-long&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 ### 🏆 GitHub Trophies
@@ -97,4 +97,14 @@
 ---
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=gagan-long&icon=0&color=0" alt="Profile Views" />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gagan-long&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" onerror="this.style.display='none'" />
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gagan-long&style=flat-square&color=00d2ff&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
