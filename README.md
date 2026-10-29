@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 - 🎓 **Education:** Pursuing Master of Computer Applications (MCA) at Bhilai Institute of Technology, Durg | BCA Graduate.
-- 💻 **Core Focus:** Building full-stack web applications, network infrastructure simulation, and cybersecurity defense.
+- 💻 **Core Focus:** Full-stack web applications, network infrastructure simulation, and cybersecurity defense.
 - ⚡ **Fun Fact:** I Love Tech and Tech Loves Me.
 
 ---
@@ -65,6 +65,17 @@
   Audited client systems for configuration flaws, assisted with firewall deployment, and documented remediation guidelines.
 - **Technical Lab Assistant** – *Thakur Computer Academy (June 2023 – June 2025)*  
   Assisted students and faculty with technical curriculum, debugging, and systems troubleshooting.
+
+---
+
+### 🐍 Contribution Activity
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gagan-long/gagan-long/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gagan-long/gagan-long/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/gagan-long/gagan-long/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
 
 ---
 
