@@ -85,11 +85,7 @@
   <img src="https://streak-stats.demolab.com/?user=gagan-long&theme=dark&hide_border=false" alt="Gagan's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gagan-long&theme=dark&hide_border=false&layout=compact&langs_count=6" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DOTexe1255&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
+
+
 
 
